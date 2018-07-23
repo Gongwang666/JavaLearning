@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ArrayLearning/ArrayLearning.iml" filepath="$PROJECT_DIR$/ArrayLearning/ArrayLearning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArrayListLearning/ArrayListLearning.iml" filepath="$PROJECT_DIR$/ArrayListLearning/ArrayListLearning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Learning.iml" filepath="$PROJECT_DIR$/Learning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UpCaseLearning/UpCaseLearning.iml" filepath="$PROJECT_DIR$/UpCaseLearning/UpCaseLearning.iml" />
+    </modules>
+  </component>
+</project>
