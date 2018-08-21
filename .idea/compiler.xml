@@ -8,14 +8,16 @@
         <outputRelativeToContentRoot value="true" />
         <module name="ArrayLearning" />
         <module name="ArrayListLearning" />
+        <module name="GenericLearning" />
         <module name="UpCaseLearning" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.8">
-      <module name="ArrayLearning" target="1.5" />
-      <module name="ArrayListLearning" target="1.5" />
-      <module name="Learning" target="1.5" />
-      <module name="UpCaseLearning" target="1.5" />
+      <module name="ArrayLearning" target="1.8" />
+      <module name="ArrayListLearning" target="1.8" />
+      <module name="GenericLearning" target="1.8" />
+      <module name="Learning" target="1.8" />
+      <module name="UpCaseLearning" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
